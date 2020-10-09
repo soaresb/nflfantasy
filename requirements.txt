@@ -1,0 +1,9 @@
+pymongo
+requests
+flask
+python-dotenv
+flask-cors
+fastapi
+uvicorn
+beautifulsoup4
+mysql-connector-python
