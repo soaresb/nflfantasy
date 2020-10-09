@@ -1,0 +1,27 @@
+[
+    {
+        "module": "FantasyProsScraper.FantasyProsScraper",
+        "site": "https://www.fantasypros.com/nfl/rankings/flex.php",
+        "type": "flex"
+    },
+    {
+        "module": "FantasyProsScraper.FantasyProsScraper",
+        "site": "https://www.fantasypros.com/nfl/rankings/rb.php",
+        "type": "position"
+    },
+    {
+        "module": "FantasyProsScraper.FantasyProsScraper",
+        "site": "https://www.fantasypros.com/nfl/rankings/wr.php",
+        "type": "position"
+    },
+    {
+        "module": "FantasyProsScraper.FantasyProsScraper",
+        "site": "https://www.fantasypros.com/nfl/rankings/te.php",
+        "type": "position"
+    },
+    {
+        "module": "FantasyProsScraper.FantasyProsScraper",
+        "site": "https://www.fantasypros.com/nfl/rankings/qb.php",
+        "type": "position"
+    }
+]
